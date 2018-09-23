@@ -13,6 +13,7 @@
 
 ### TRAVIS CI
 
+[![Build Status](https://travis-ci.com/fncreative/10-recursion.svg?branch=master)](https://travis-ci.com/fncreative/10-recursion)
 
 ### Author
 Daniel Frey
